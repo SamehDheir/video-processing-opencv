@@ -1,6 +1,0 @@
-Frame,Timestamp (seconds),Multi-crop prediction,Confidence (%),Second prediction,Third prediction,Full-frame prediction,Full-frame confidence (%)
-0,0.0,pole,8.2,jinrikisha,parking meter,jinrikisha,10.7
-538,8.98,pole,10.59,jinrikisha,traffic light,shovel,13.34
-1077,17.97,pole,9.32,jinrikisha,traffic light,jinrikisha,16.08
-1616,26.96,pole,8.39,parking meter,traffic light,horse cart,10.49
-2155,35.95,patio,8.02,pole,traffic light,cinema,9.33
